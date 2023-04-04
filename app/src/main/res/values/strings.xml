@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sofa</string>
+    <string name="sofa">Sofa Cleaning</string>
+    <string name="booked_button">Book Service</string>
+    <string name="sofa_cleaning_about">Just Clean brings you extraordinary sofa cleaning services. We use advanced technology, imported chemicals.</string>
+    <string name="_3to8seater">For Velvet</string>
+    <string name="_3_8price">Price: 500 per seat</string>
+    <string name="_2_3seater">For Leather</string>
+    <string name="_2_3price">Price:200 per seat</string>
+    <string name="ok_btn">OK</string>
+    <string name="carpet_clean">Carpet Cleaning</string>
+    <string name="carpetCategory1">13X13 or 20X20 carpet</string>
+    <string name="carpetCatrgory2">5X5 or 12X12 carpet</string>
+    <string name="carpet1_price">100/ft</string>
+    <string name="carpet2_price">200/ft</string>
+    <string name="carpet_clean_about">Our experienced in-house staff knows how to remove the deep-down dirt, stubborn stains and eliminate bacteria from the carpets. So, your sofa remains in its best shape for the long run</string>
+</resources>
